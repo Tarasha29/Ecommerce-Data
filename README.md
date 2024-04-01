@@ -1,4 +1,4 @@
-<img width="998" alt="image" src="https://github.com/Tarasha29/Ecommerce-Data/assets/107948071/4069a8c9-399a-4bdd-a007-3689c9581528"># Ecommerce-Data
+Ecommerce-Data
 Business Data Management project: use business requirements to create tables, insert, and analyse data to formulate business insights.
 
 There are two files of code: one is to create tables and insert data while the other is to analyze the data and extract useful information.
@@ -26,3 +26,15 @@ Queries:
 
 
 These conclusions are drawn by obtaining useful informtation from the data using SQL queries. 
+
+
+
+Entity Relationship and Logical Design Diagrams
+
+
+
+<img width="998" alt="image" src="https://github.com/Tarasha29/Ecommerce-Data/assets/107948071/4069a8c9-399a-4bdd-a007-3689c9581528"># 
+
+
+<img width="945" alt="LD_DIAGRAM" src="https://github.com/Tarasha29/Ecommerce-Data/assets/107948071/93819a05-ea44-4ff7-b331-ba6b24dce1a6">
+
